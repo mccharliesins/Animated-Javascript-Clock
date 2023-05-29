@@ -36,3 +36,7 @@ body{
     z-index: 100;
 }
 .clock .hour,
+.clock .min,
+.clock .sec{
+    
+}
