@@ -80,9 +80,9 @@ body{
 .sc::before{
     content: '';
     position: absolute;
-    width: 8px;
-    height: 80px;
-    background: #007EA7;
-    z-index: 10;
+    width: px;
+    height: 100px;
+    background: #7d00a7;
+    z-index: 12;
     border-radius: 6px 6px 0 0;
 }
