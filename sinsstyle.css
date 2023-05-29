@@ -11,3 +11,7 @@ body{
     min-height: 100vh;
     background: #070707;
 }
+.clock{
+    width: 350px;
+    
+}
