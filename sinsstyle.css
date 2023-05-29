@@ -21,5 +21,6 @@ body{
     background-size: cover;
     border: 5px solid #070707;
     border-radius: 50%;
-    box-shadow: 0 -15px 15px rgba();
+    box-shadow: 0 -15px 15px rgba(255,255,255,0.06),
+                inset ;
 }
