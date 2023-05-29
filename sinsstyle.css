@@ -61,5 +61,7 @@ body{
 
 .hr::before{
     content: '';
-    position: inherit;
+    position: absolute;
+    width: 8px;
+    height: 80px;
 }
