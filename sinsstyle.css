@@ -59,4 +59,7 @@ body{
     align-items: center;
 }
 
-.hr
+.hr::before{
+    content: '';
+    position: inherit;
+}
