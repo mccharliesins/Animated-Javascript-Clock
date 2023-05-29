@@ -38,5 +38,6 @@ body{
 .clock .hour,
 .clock .min,
 .clock .sec{
-    
+    position: absolute;
 }
+
