@@ -26,3 +26,6 @@ body{
                 0 -15px 15px rgba(0,0,0,0.4),
                 inset 0 -15px 15px rgba(0,0,0,0.4);
 }
+.clock::before{
+    
+}
