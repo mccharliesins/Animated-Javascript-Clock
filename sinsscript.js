@@ -8,4 +8,4 @@ let hh = day.getHours()*30;
 let mm = day.getMinutes()*deg;
 let ss = day.getSeconds()*deg;
 
-hr.style.trans
+hr.style.transform = ''
