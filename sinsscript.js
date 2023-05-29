@@ -1,6 +1,6 @@
 const deg=6;
-const hr=document.querySelector('#hr');
-const mn=document.querySelector('#mn');
+const hr=document.getElementById('hr');
+const mn=document.getElementById('mn');
 const sc=document.querySelector('#sc');
 
 let day = new Date();
