@@ -73,11 +73,11 @@ body{
     position: absolute;
     width: 5px;
     height: 90px;
-    background: #007EA7;
-    z-index: 10;
+    background: #13a700;
+    z-index: 11;
     border-radius: 6px 6px 0 0;
 }
-.hr::before{
+.sc::before{
     content: '';
     position: absolute;
     width: 8px;
