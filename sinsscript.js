@@ -3,6 +3,7 @@ const hr=document.getElementById('hr');
 const mn=document.getElementById('mn');
 const sc=document.getElementById('sc');
 
+set 
 let day = new Date();
 let hh = day.getHours()*30;
 let mm = day.getMinutes()*deg;
