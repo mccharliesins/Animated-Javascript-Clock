@@ -29,5 +29,7 @@ body{
 .clock::before{
     content:'';
     position: absolute;
-    
+    height:16px;
+    width: 16px;
+    background: white;
 }
