@@ -19,5 +19,7 @@ body{
     align-items: center;
     background: url(clock.png);
     background-size: cover;
-    border: 5px solid 
+    border: 5px solid #070707;
+    border-radius: 50%;
+    
 }
