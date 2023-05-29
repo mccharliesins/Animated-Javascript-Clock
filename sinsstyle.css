@@ -65,4 +65,6 @@ body{
     width: 8px;
     height: 80px;
     background: #007EA7;
+    z-index: 10;
+    border-radius: ;
 }
